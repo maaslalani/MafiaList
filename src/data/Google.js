@@ -1,4 +1,3 @@
-
 const Google = [
   {
     subcompany: 'Cheddar',
@@ -6,6 +5,8 @@ const Google = [
     url: 'cheddar.com',
     logo: 'logo.clearbit.com/cheddar.com',
     founder: 'Jon Steinberg',
+    founded: '',
+    employees: '',
   },
   {
     subcompany: 'Asana',
@@ -13,6 +14,8 @@ const Google = [
     url: 'asana.com',
     logo: 'logo.clearbit.com/asana.com',
     founder: 'Justin Rosenstein',
+    founded: '',
+    employees: '',
   },
   {
     subcompany: 'Cohesity',
@@ -20,6 +23,8 @@ const Google = [
     url: 'cohesity.com',
     logo: 'logo.clearbit.com/cohesity.com',
     founder: 'Mohit Aron ',
+    founded: '',
+    employees: '',
   },
   {
     subcompany: 'WayUp',
@@ -27,6 +32,8 @@ const Google = [
     url: 'wayup.com',
     logo: 'logo.clearbit.com/wayup.com',
     founder: 'Liz Wessel',
+    founded: '',
+    employees: '',
   },
   {
     subcompany: 'Forward',
@@ -34,6 +41,8 @@ const Google = [
     url: 'goforward.com',
     logo: 'logo.clearbit.com/goforward.com',
     founder: 'Adrian Aoun',
+    founded: '',
+    employees: '',
   },
   {
     subcompany: 'Ritual.co',
@@ -41,6 +50,8 @@ const Google = [
     url: 'ritual.co',
     logo: 'logo.clearbit.com/ritual.co',
     founder: 'Robert Kim',
+    founded: '',
+    employees: '',
   },
   {
     subcompany: 'Applied Intuition',
@@ -48,6 +59,8 @@ const Google = [
     url: 'appliedintuition.com',
     logo: 'logo.clearbit.com/appliedintuition.com',
     founder: 'Qasar Younis ',
+    founded: '',
+    employees: '',
   },
   {
     subcompany: 'Dialpad',
@@ -55,6 +68,8 @@ const Google = [
     url: 'dialpad.com',
     logo: 'logo.clearbit.com/dialpad.com',
     founder: 'Craig Walker ',
+    founded: '',
+    employees: '',
   },
   {
     subcompany: 'KeepTruckin',
@@ -62,6 +77,8 @@ const Google = [
     url: 'keeptruckin.com',
     logo: 'logo.clearbit.com/keeptruckin.com',
     founder: 'Shoaib Makani ',
+    founded: '',
+    employees: '',
   },
   {
     subcompany: 'Kapwing',
@@ -69,6 +86,8 @@ const Google = [
     url: 'kapwing.com',
     logo: 'logo.clearbit.com/kapwing.com',
     founder: 'Julia Enthoven ',
+    founded: '',
+    employees: '',
   },
   {
     subcompany: 'Rubrik',

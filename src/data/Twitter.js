@@ -5,6 +5,8 @@ const Twitter = [
     url: 'abstract.com',
     logo: 'logo.clearbit.com/abstract.com',
     founder: 'Josh Brewer',
+    founded: '',
+    employees: '',
   },
   {
     subcompany: 'Paradigm',
@@ -12,6 +14,8 @@ const Twitter = [
     url: 'paradigm.xyz',
     logo: 'https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_120,w_120,f_auto,b_white,q_auto:eco/eqlfk2zykogiqu6pjkfv',
     founder: 'Matt Huang',
+    founded: '',
+    employees: '',
   },
   {
     subcompany: 'Benchling',
@@ -19,6 +23,8 @@ const Twitter = [
     url: 'benchling.com',
     logo: 'logo.clearbit.com/benchling.com',
     founder: 'Ashu Singhal',
+    founded: '',
+    employees: '',
   },
   {
     subcompany: 'Clearbit',
@@ -26,6 +32,8 @@ const Twitter = [
     url: 'clearbit.com',
     logo: 'logo.clearbit.com/clearbit.com',
     founder: 'Alex MacCaw',
+    founded: '',
+    employees: '',
   },
   {
     subcompany: 'Envoy',
@@ -33,6 +41,8 @@ const Twitter = [
     url: 'envoy.com',
     logo: 'logo.clearbit.com/envoy.com',
     founder: 'Larry Gadea',
+    founded: '',
+    employees: '',
   },
   {
     subcompany: 'BearBuzz',
@@ -40,6 +50,8 @@ const Twitter = [
     url: 'bearbuzz.io',
     logo: 'logo.clearbit.com/bearbuzz.io',
     founder: 'Hetong Li',
+    founded: '',
+    employees: '',
   },
   {
     subcompany: 'Brat',
@@ -47,6 +59,8 @@ const Twitter = [
     url: 'brat.com',
     logo: 'logo.clearbit.com/brat.com',
     founder: 'Rob Fishman',
+    founded: '',
+    employees: '',
   },
   {
     subcompany: 'Streamlio',
@@ -54,6 +68,8 @@ const Twitter = [
     url: 'streaml.io',
     logo: 'logo.clearbit.com/streaml.io',
     founder: 'Karthik Ramasamy',
+    founded: '',
+    employees: '',
   },
   {
     subcompany: 'Mesosphere',
@@ -61,6 +77,8 @@ const Twitter = [
     url: 'mesosphere.com',
     logo: 'logo.clearbit.com/mesosphere.com',
     founder: 'Benjamin Hindman',
+    founded: '',
+    employees: '',
   },
   {
     subcompany: 'Medium',
@@ -68,6 +86,8 @@ const Twitter = [
     url: 'medium.com',
     logo: 'logo.clearbit.com/medium.com',
     founder: 'Biz Stone, Jason Goldman',
+    founded: '',
+    employees: '',
   },
 ];
 

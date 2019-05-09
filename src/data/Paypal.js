@@ -5,6 +5,8 @@ const Paypal = [
     url: 'http://www.palantir.com',
     logo: 'logo.clearbit.com/palantir.com',
     founder: 'Peter Thiel',
+    founded: '',
+    employees: '',
   },
   {
     subcompany: 'Affirm',
@@ -12,6 +14,8 @@ const Paypal = [
     url: 'https://www.affirm.com',
     logo: 'logo.clearbit.com/affirm.com',
     founder: 'Max Levchin',
+    founded: '',
+    employees: '',
   },
   {
     subcompany: 'Tesla',
@@ -19,6 +23,8 @@ const Paypal = [
     url: 'https://www.tesla.com',
     logo: 'logo.clearbit.com/tesla.com',
     founder: 'Elon Musk',
+    founded: '',
+    employees: '',
   },
   {
     subcompany: 'Yammer',
@@ -26,6 +32,8 @@ const Paypal = [
     url: 'https://www.yammer.com',
     logo: 'logo.clearbit.com/yammer.com',
     founder: 'David Sacks',
+    founded: '',
+    employees: '',
   },
   {
     subcompany: 'YouTube',
@@ -33,6 +41,8 @@ const Paypal = [
     url: 'https://www.youtube.com',
     logo: 'logo.clearbit.com/youtube.com',
     founder: 'Steve C, Jawed K',
+    founded: '',
+    employees: '',
   },
   {
     subcompany: 'Yelp',
@@ -40,6 +50,8 @@ const Paypal = [
     url: 'https://www.yelp.com',
     logo: 'logo.clearbit.com/yelp.com',
     founder: 'Russel S, Jeremy S',
+    founded: '',
+    employees: '',
   },
   {
     subcompany: 'Kiva',
@@ -47,6 +59,8 @@ const Paypal = [
     url: 'https://www.kiva.org',
     logo: 'logo.clearbit.com/kiva.org',
     founder: 'Premal Shah',
+    founded: '',
+    employees: '',
   },
   {
     subcompany: '500Startups',
@@ -54,6 +68,8 @@ const Paypal = [
     url: 'https://500.co',
     logo: 'logo.clearbit.com/500.co',
     founder: 'Dave McClure',
+    founded: '',
+    employees: '',
   },
   {
     subcompany: 'LinkedIn',
@@ -61,6 +77,8 @@ const Paypal = [
     url: 'https://www.linkedin.com',
     logo: 'logo.clearbit.com/linkedin.com',
     founder: 'Ried Hoffman',
+    founded: '',
+    employees: '',
   },
 ];
 
