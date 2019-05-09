@@ -9,15 +9,6 @@ const Twitter = [
     employees: '101-250',
   },
   {
-    subcompany: 'Paradigm',
-    crunchbaseUrl: 'https://www.crunchbase.com/organization/paradigm',
-    url: 'paradigm.xyz',
-    logo: 'https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_120,w_120,f_auto,b_white,q_auto:eco/eqlfk2zykogiqu6pjkfv',
-    founder: 'Matt Huang',
-    year: '',
-    employees: '',
-  },
-  {
     subcompany: 'Benchling',
     crunchbaseUrl: 'https://www.crunchbase.com/organization/benchling',
     url: 'benchling.com',
