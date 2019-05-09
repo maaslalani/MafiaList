@@ -1,74 +1,32 @@
 const Shopify = [
   {
-    subcompany: 'CitiVox',
-    crunchbaseUrl: 'https://www.crunchbase.com/organization/citivox',
-    url: 'citivox.com',
-    logo: 'logo.clearbit.com/citivox.com',
-    founder: 'Jorge Soto',
+    subcompany: 'Delphia',
+    crunchbaseUrl: 'https://www.crunchbase.com/organization/delphia',
+    url: 'delphia.com',
+    logo: 'logo.clearbit.com/delphia.com',
+    founder: 'Andrew Peek',
+    year: 2017,
+    employees: '11-50'
   },
   {
-    subcompany: 'Bird',
-    crunchbaseUrl: 'https://www.crunchbase.com/organization/bird',
-    url: 'bird.co',
-    logo: 'logo.clearbit.com/bird.co',
-    founder: 'Travis VanderZanden',
+    subcompany: 'Cover',
+    crunchbaseUrl: 'https://www.crunchbase.com/organization/cover-5',
+    url: 'cover.com',
+    logo: 'logo.clearbit.com/cover.com',
+    founder: 'Natalie G, Karn S, Ben A, Anand D',
+    year: 2016,
+    employees: '11-50'
   },
   {
-    subcompany: 'dYdX',
-    crunchbaseUrl: 'https://www.crunchbase.com/organization/dydx',
-    url: 'dydx.exchange',
-    logo: 'logo.clearbit.com/dydx.exchange',
-    founder: 'Antonio Juliano',
+    subcompany: 'Launch Pop',
+    crunchbaseUrl: 'https://www.crunchbase.com/organization/launch-pop',
+    url: 'launchpop.com',
+    logo: 'res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/o0xw0nv7v4fez8aagntm',
+    founder: 'Jane Lee, Eva Chan',
+    year: 2017,
+    employees: '11-50'
   },
-  {
-    subcompany: 'Bungalow',
-    crunchbaseUrl: 'https://www.crunchbase.com/organization/bungalow',
-    url: 'bungalow.com',
-    logo: 'logo.clearbit.com/bungalow.com',
-    founder: 'Justin McCarty',
-  },
-  {
-    subcompany: 'Karrot Fit',
-    crunchbaseUrl: 'https://www.crunchbase.com/organization/karrot-health',
-    url: 'karrothealth.com',
-    logo: 'logo.clearbit.com/karrothealth.com',
-    founder: 'Kelley Halpin',
-  },
-  {
-    subcompany: 'HomeShare',
-    crunchbaseUrl: 'https://www.crunchbase.com/organization/homeshare',
-    url: 'homeshare.com',
-    logo: 'logo.clearbit.com/homeshare.com',
-    founder: 'Jeffrey Pang',
-  },
-  {
-    subcompany: 'ExecThread',
-    crunchbaseUrl: 'https://www.crunchbase.com/organization/execthread',
-    url: 'execthread.com',
-    logo: 'logo.clearbit.com/execthread.com',
-    founder: 'Ryann Richardso',
-  },
-  {
-    subcompany: 'Doppler',
-    crunchbaseUrl: 'https://www.crunchbase.com/organization/doppler',
-    url: 'doppler.com',
-    logo: 'logo.clearbit.com/doppler.com',
-    founder: 'Phillip C',
-  },
-  {
-    subcompany: 'Qoins',
-    crunchbaseUrl: 'https://www.crunchbase.com/organization/qoins',
-    url: 'qoins.io',
-    logo: 'logo.clearbit.com/qoins.io',
-    founder: 'Christian Zimmerman',
-  },
-  {
-    subcompany: 'Kodiak Robotics',
-    crunchbaseUrl: 'https://www.crunchbase.com/organization/kodiak-robotics-inc',
-    url: 'kodiak.ai',
-    logo: 'logo.clearbit.com/kodiak.ai',
-    founder: 'Don Burnette',
-  },
+
 ];
 
 export default Shopify;
