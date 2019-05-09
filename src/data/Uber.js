@@ -1,14 +1,5 @@
 const Uber = [
   {
-    subcompany: 'CitiVox',
-    crunchbaseUrl: 'https://www.crunchbase.com/organization/citivox',
-    url: 'citivox.com',
-    logo: 'logo.clearbit.com/citivox.com',
-    founder: 'Jorge Soto',
-    year: 2011,
-    employees: '1-10',
-  },
-  {
     subcompany: 'Bird',
     crunchbaseUrl: 'https://www.crunchbase.com/organization/bird',
     url: 'bird.co',

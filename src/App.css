@@ -105,3 +105,23 @@ a {
 .tag .label {
   font-size: 9px;
 }
+
+a {
+  color: black;
+}
+
+.companyHeader {
+  display: flex;
+  align-items: center;
+}
+
+.companyHeader img {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+  display: inline-block;
+}
+
+.companyHeader h2 {
+  display: inline-block;
+}
