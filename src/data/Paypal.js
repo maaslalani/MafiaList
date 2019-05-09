@@ -5,8 +5,8 @@ const Paypal = [
     url: 'http://www.palantir.com',
     logo: 'logo.clearbit.com/palantir.com',
     founder: 'Peter Thiel',
-    founded: '',
-    employees: '',
+    year: '2004',
+    employees: '1001-5000',
   },
   {
     subcompany: 'Affirm',
@@ -14,8 +14,8 @@ const Paypal = [
     url: 'https://www.affirm.com',
     logo: 'logo.clearbit.com/affirm.com',
     founder: 'Max Levchin',
-    founded: '',
-    employees: '',
+    year: '2012',
+    employees: '101-250',
   },
   {
     subcompany: 'Tesla',
@@ -23,8 +23,8 @@ const Paypal = [
     url: 'https://www.tesla.com',
     logo: 'logo.clearbit.com/tesla.com',
     founder: 'Elon Musk',
-    founded: '',
-    employees: '',
+    year: '2003',
+    employees: '10001+',
   },
   {
     subcompany: 'Yammer',
@@ -32,8 +32,8 @@ const Paypal = [
     url: 'https://www.yammer.com',
     logo: 'logo.clearbit.com/yammer.com',
     founder: 'David Sacks',
-    founded: '',
-    employees: '',
+    year: '2008',
+    employees: '251-500',
   },
   {
     subcompany: 'YouTube',
@@ -41,8 +41,8 @@ const Paypal = [
     url: 'https://www.youtube.com',
     logo: 'logo.clearbit.com/youtube.com',
     founder: 'Steve C, Jawed K',
-    founded: '',
-    employees: '',
+    year: '2005',
+    employees: '1001-5000',
   },
   {
     subcompany: 'Yelp',
@@ -50,8 +50,8 @@ const Paypal = [
     url: 'https://www.yelp.com',
     logo: 'logo.clearbit.com/yelp.com',
     founder: 'Russel S, Jeremy S',
-    founded: '',
-    employees: '',
+    year: '2004',
+    employees: '501-1000',
   },
   {
     subcompany: 'Kiva',
@@ -59,8 +59,8 @@ const Paypal = [
     url: 'https://www.kiva.org',
     logo: 'logo.clearbit.com/kiva.org',
     founder: 'Premal Shah',
-    founded: '',
-    employees: '',
+    year: '2005',
+    employees: '101-250',
   },
   {
     subcompany: '500Startups',
@@ -68,8 +68,8 @@ const Paypal = [
     url: 'https://500.co',
     logo: 'logo.clearbit.com/500.co',
     founder: 'Dave McClure',
-    founded: '',
-    employees: '',
+    year: '2010',
+    employees: 'No Data',
   },
   {
     subcompany: 'LinkedIn',
@@ -77,8 +77,8 @@ const Paypal = [
     url: 'https://www.linkedin.com',
     logo: 'logo.clearbit.com/linkedin.com',
     founder: 'Ried Hoffman',
-    founded: '',
-    employees: '',
+    year: '2003',
+    employees: '1001-5000',
   },
 ];
 

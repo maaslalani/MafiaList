@@ -5,6 +5,8 @@ const Microsoft = [
     url: 'uipath.com',
     logo: 'logo.clearbit.com/uipath.com',
     founder: 'Daniel Dines',
+    year: '2005',
+    employees: '1001-5000',
   },
   {
     subcompany: 'Figma',
@@ -12,6 +14,8 @@ const Microsoft = [
     url: 'figma.com',
     logo: 'logo.clearbit.com/figma.com',
     founder: 'Dylan Field',
+    year: '2012',
+    employees: '11-50',
   },
   {
     subcompany: 'Viome',
@@ -19,6 +23,8 @@ const Microsoft = [
     url: 'viome.com',
     logo: 'logo.clearbit.com/viome.com',
     founder: 'Max Levchin',
+    year: '2016',
+    employees: '11-50',
   },
   {
     subcompany: 'Blameless',
@@ -26,6 +32,8 @@ const Microsoft = [
     url: 'blameless.com',
     logo: 'logo.clearbit.com/blameless.com',
     founder: 'Lyon Wong',
+    year: '2017',
+    employees: '11-50',
   },
   {
     subcompany: 'Nuro',
@@ -33,6 +41,8 @@ const Microsoft = [
     url: 'nuro.ai',
     logo: 'logo.clearbit.com/nuro.ai',
     founder: 'Jiajun Zhu',
+    year: '2016',
+    employees: '251-500',
   },
   {
     subcompany: 'Vida',
@@ -40,13 +50,17 @@ const Microsoft = [
     url: 'shopvida.com',
     logo: 'logo.clearbit.com/shopvida.com',
     founder: 'Umaimah Mendhro',
+    year: '2014',
+    employees: '11-50',
   },
   {
     subcompany: 'Stringr',
     crunchbaseUrl: 'https://www.crunchbase.com/organization/stringr',
     url: 'stringr.com',
-    logo: 'logo.clearbit.com/stringr.com',
+    logo: 'pbs.twimg.com/profile_images/1032265695742967808/pa7yMUOA.jpg',
     founder: 'Brian McNeill',
+    year: '2013',
+    employees: '11-50',
   },
   {
     subcompany: 'SafeButler',
@@ -54,6 +68,8 @@ const Microsoft = [
     url: 'safebutler.com',
     logo: 'logo.clearbit.com/safebutler.com',
     founder: 'Vincent Wei',
+    year: 'No Data',
+    employees: 'No Data',
   },
   {
     subcompany: 'Algorithmia',
@@ -61,13 +77,17 @@ const Microsoft = [
     url: 'algorithmia.com',
     logo: 'logo.clearbit.com/algorithmia.com',
     founder: 'Diego Oppenheimer',
+    year: '2014',
+    employees: '11-50',
   },
   {
     subcompany: 'Custodia',
     crunchbaseUrl: 'https://www.crunchbase.com/organization/custodia',
     url: 'custodia.com',
-    logo: 'logo.clearbit.com/custodia.com',
+    logo: 'gocustodia.com/wp-content/uploads/2019/03/custodia_colour_white_no_tag_bg-e1552767744152.png',
     founder: 'Jim Hackett',
+    year: '2018',
+    employees: '1-10',
   },
   {
     subcompany: 'Blendoor',
@@ -75,6 +95,8 @@ const Microsoft = [
     url: 'blendoor.com',
     logo: 'logo.clearbit.com/blendoor.com',
     founder: 'Stephanie Lampkin',
+    year: '2014',
+    employees: '1-10',
   },
 ];
 
