@@ -11,9 +11,9 @@ class MafiaCompany extends React.Component {
           {subcompany}
         </div>
         <div className='bottom'>
-          <Tag content={founder} label='Founder' color='#ECCBD9' />
-          <Tag content={year} label='Founded' color='#83BCFF' />
-          <Tag content={employees} label='Employees' color='#80FFE8' />
+          <Tag content={founder} label='Founder' color='#F18805' />
+          <Tag content={year} label='Founded' color='#202C59' />
+          <Tag content={employees} label='Employees' color='#D95D39' />
         </div>
       </div>
     );
