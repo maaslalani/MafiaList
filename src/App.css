@@ -68,7 +68,7 @@ a {
 
 .subcompany .top img {
   display: block;
-  width: 50px;
+  width: 100px;
   height: auto;
 
   margin: 5vh auto;
@@ -82,6 +82,7 @@ a {
   padding-top: 10px;
   flex-wrap: wrap;
   justify-content: center;
+  align-items: center;
   border-top: 2px solid #EEE;
 }
 

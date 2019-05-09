@@ -8,7 +8,9 @@ class MafiaCompany extends React.Component {
       <div className='subcompany'>
         <div className='top'>
           <img src={`https://${logo}`} alt={logo} />
-          {subcompany}
+          <p>
+            {subcompany}
+          </p>
         </div>
         <div className='bottom'>
           <Tag content={founder} label='Founder' color='#F18805' />

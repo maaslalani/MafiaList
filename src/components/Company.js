@@ -8,8 +8,10 @@ class Company extends React.Component {
     const company = this.props.match.params.company;
     return (
       <main>
-        <Link to='/'>Back</Link>
-        <h1>MafiaList, {company}</h1>
+        <Link to='/'>
+          <h1>MafiaList</h1>
+        </Link>
+        <h2>{company}</h2>
         <p>Companies founded by X-{company} employees</p>
         <div className='subcompanies'>
           {
