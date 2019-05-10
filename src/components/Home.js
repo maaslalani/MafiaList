@@ -35,7 +35,7 @@ class Home extends React.Component {
           }
         </div>
 
-        <p className='footer'>Made with 🤵 by <a href="https://maaslalani.com/">Maas</a>, <a href="https://adamgonen.com/">Adam</a>, <a href="https://jordangonen.com">Jordan</a> and <a href="https://darshilpatel.com">Darshil</a>.</p>
+        <footer class="footer">Made with 🤵 by <a href="https://maaslalani.com/">Maas</a>, <a href="https://adamgonen.com/">Adam</a>, <a href="https://jordangonen.com">Jordan</a> and <a href="https://darshilpatel.com">Darshil</a>.</footer>
       </main>
     );
   }

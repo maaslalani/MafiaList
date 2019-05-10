@@ -2,6 +2,10 @@ main {
   padding: 5vw;
 }
 
+p {
+  font-size: 16pt;
+}
+
 .companies {
   display: flex;
   flex-wrap: wrap;
@@ -129,6 +133,9 @@ a {
   display: inline-block;
 }
 
-.footer{
-  text-align: center
+.footer {
+  text-align: center;
+  padding: 5%;
+  font-family: monospace;
+  font-size: 12pt;
 }
