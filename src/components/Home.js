@@ -34,6 +34,8 @@ class Home extends React.Component {
             COMPANIES.map(company => <Company company={company} />)
           }
         </div>
+
+        <p className='footer'>Made with 🤵 by <a href="https://maaslalani.com/">Maas</a>, <a href="https://adamgonen.com/">Adam</a>, <a href="https://jordangonen.com">Jordan</a> and <a href="https://darshilpatel.com">Darshil</a>.</p>
       </main>
     );
   }
