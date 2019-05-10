@@ -2,7 +2,7 @@ const Paypal = [
   {
     subcompany: 'Palantir',
     crunchbaseUrl: 'https://www.crunchbase.com/organization/palantir-technologies',
-    url: 'http://www.palantir.com',
+    url: 'palantir.com',
     logo: 'logo.clearbit.com/palantir.com',
     founder: 'Peter Thiel',
     year: '2004',
@@ -11,7 +11,7 @@ const Paypal = [
   {
     subcompany: 'Affirm',
     crunchbaseUrl: 'https://www.crunchbase.com/organization/affirm',
-    url: 'https://www.affirm.com',
+    url: 'affirm.com',
     logo: 'logo.clearbit.com/affirm.com',
     founder: 'Max Levchin',
     year: '2012',
@@ -20,7 +20,7 @@ const Paypal = [
   {
     subcompany: 'Tesla',
     crunchbaseUrl: 'https://www.crunchbase.com/organization/tesla-motors',
-    url: 'https://www.tesla.com',
+    url: 'tesla.com',
     logo: 'logo.clearbit.com/tesla.com',
     founder: 'Elon Musk',
     year: '2003',
@@ -29,7 +29,7 @@ const Paypal = [
   {
     subcompany: 'Yammer',
     crunchbaseUrl: 'https://www.crunchbase.com/organization/yammer',
-    url: 'https://www.yammer.com',
+    url: 'yammer.com',
     logo: 'logo.clearbit.com/yammer.com',
     founder: 'David Sacks',
     year: '2008',
@@ -38,7 +38,7 @@ const Paypal = [
   {
     subcompany: 'YouTube',
     crunchbaseUrl: 'https://www.crunchbase.com/organization/youtube',
-    url: 'https://www.youtube.com',
+    url: 'youtube.com',
     logo: 'logo.clearbit.com/youtube.com',
     founder: 'Steve C, Jawed K',
     year: '2005',
@@ -47,7 +47,7 @@ const Paypal = [
   {
     subcompany: 'Yelp',
     crunchbaseUrl: 'https://www.crunchbase.com/organization/yelp',
-    url: 'https://www.yelp.com',
+    url: 'yelp.com',
     logo: 'logo.clearbit.com/yelp.com',
     founder: 'Russel S, Jeremy S',
     year: '2004',
@@ -56,7 +56,7 @@ const Paypal = [
   {
     subcompany: 'Kiva',
     crunchbaseUrl: 'https://www.crunchbase.com/organization/kiva',
-    url: 'https://www.kiva.org',
+    url: 'kiva.org',
     logo: 'logo.clearbit.com/kiva.org',
     founder: 'Premal Shah',
     year: '2005',
@@ -65,7 +65,7 @@ const Paypal = [
   {
     subcompany: '500Startups',
     crunchbaseUrl: 'https://www.crunchbase.com/organization/500-startups',
-    url: 'https://500.co',
+    url: '500.co',
     logo: 'logo.clearbit.com/500.co',
     founder: 'Dave McClure',
     year: '2010',
@@ -74,7 +74,7 @@ const Paypal = [
   {
     subcompany: 'LinkedIn',
     crunchbaseUrl: 'https://www.crunchbase.com/organization/linkedin',
-    url: 'https://www.linkedin.com',
+    url: 'linkedin.com',
     logo: 'logo.clearbit.com/linkedin.com',
     founder: 'Ried Hoffman',
     year: '2003',
