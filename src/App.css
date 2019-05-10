@@ -50,6 +50,7 @@ a {
 .subcompany {
   display: flex;
   flex-direction: column;
+  flex: 1;
 
   width: 25vw;
   margin-right: 2vw;
@@ -69,7 +70,7 @@ a {
 .subcompany .top img {
   display: block;
   width: 100px;
-  height: auto;
+  height: 100px;
 
   margin: 5vh auto;
 }
@@ -84,6 +85,7 @@ a {
   justify-content: center;
   align-items: center;
   border-top: 2px solid #EEE;
+  height: 100%;
 }
 
 .tag {
@@ -113,6 +115,7 @@ a {
 .companyHeader {
   display: flex;
   align-items: center;
+  padding: 20px 0;
 }
 
 .companyHeader img {
