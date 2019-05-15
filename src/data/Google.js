@@ -7,6 +7,7 @@ const Google = [
     founder: 'Jon Steinberg',
     year: '2016',
     employees: '101-250',
+    linkedinUrl: ['https://www.linkedin.com/in/jonsteinberg/'],
   },
   {
     subcompany: 'Asana',
@@ -16,6 +17,7 @@ const Google = [
     founder: 'Justin Rosenstein',
     year: '2008',
     employees: '251-500',
+    linkedinUrl: ['https://www.linkedin.com/in/justinrosenstein/'],
   },
   {
     subcompany: 'Cohesity',
@@ -25,6 +27,7 @@ const Google = [
     founder: 'Mohit Aron ',
     year: '2013',
     employees: '101-250',
+    linkedinUrl: ['https://www.linkedin.com/in/mohit-aron-a83858/'],
   },
   {
     subcompany: 'WayUp',
@@ -34,6 +37,7 @@ const Google = [
     founder: 'Liz Wessel',
     year: '2014',
     employees: '11-50',
+    linkedinUrl: ['https://www.linkedin.com/in/elizabethwessel/'],
   },
   {
     subcompany: 'Forward',
@@ -43,6 +47,7 @@ const Google = [
     founder: 'Adrian Aoun',
     year: '2016',
     employees: '11-50',
+    linkedinUrl: ['https://www.linkedin.com/in/adrianaoun/'],
   },
   {
     subcompany: 'Ritual.co',
@@ -52,6 +57,7 @@ const Google = [
     founder: 'Robert Kim',
     year: '2014',
     employees: '101-250',
+    linkedinUrl: ['https://www.linkedin.com/in/robertshk/'],
   },
   {
     subcompany: 'Applied Intuition',
@@ -61,6 +67,7 @@ const Google = [
     founder: 'Qasar Younis ',
     year: '2017',
     employees: '11-50',
+    linkedinUrl: ['https://www.linkedin.com/in/qasar/'],
   },
   {
     subcompany: 'Dialpad',
@@ -70,6 +77,7 @@ const Google = [
     founder: 'Craig Walker ',
     year: '2011',
     employees: '251-500',
+    linkedinUrl: ['https://www.linkedin.com/in/cwalker123/'],
   },
   {
     subcompany: 'KeepTruckin',
@@ -79,6 +87,7 @@ const Google = [
     founder: 'Shoaib Makani ',
     year: '2013',
     employees: '501-1000',
+    linkedinUrl: ['https://www.linkedin.com/in/smakani/'],
   },
   {
     subcompany: 'Kapwing',
@@ -88,6 +97,7 @@ const Google = [
     founder: 'Julia Enthoven ',
     year: '2017',
     employees: '1-10',
+    linkedinUrl: ['https://www.linkedin.com/in/juliaenthoven/'],
   },
   {
     subcompany: 'Rubrik',
@@ -97,6 +107,7 @@ const Google = [
     founder: 'Soham Mazumdar',
     year: '2014',
     employees: '1001-5000',
+    linkedinUrl: ['https://www.linkedin.com/in/soham-mazumdar-bb0a2519/'],
   },
 ];
 
