@@ -6,7 +6,8 @@ const Facebook = [
     logo: 'logo.clearbit.com/brigade.com',
     founder: 'Sean Parker',
     year: 2014,
-    employees: '11-50'
+    employees: '11-50',
+    linkedinUrl: ['https://www.linkedin.com/in/parkersean/'],
   },
   {
     subcompany: 'Heap',
@@ -15,7 +16,8 @@ const Facebook = [
     logo: 'logo.clearbit.com/heap.io',
     founder: 'Matin Movassate ',
     year: 2013,
-    employees: '101-250'
+    employees: '101-250',
+    linkedinUrl: ['https://www.linkedin.com/in/matin-movassate-29494723/'],
   },
   {
     subcompany: 'Asana',
@@ -24,7 +26,8 @@ const Facebook = [
     logo: 'betterbuys.com/wp-content/uploads/2017/09/Asana.png',
     founder: 'Dustin Moskovitz ',
     year: 2008,
-    employees: '251-500'
+    employees: '251-500',
+    linkedinUrl: ['https://www.linkedin.com/in/dmoskov/'],
   },
   {
     subcompany: 'Quora',
@@ -33,7 +36,8 @@ const Facebook = [
     logo: 'logo.clearbit.com/quora.com',
     founder: "Adam D'Angelo",
     year: 2013,
-    employees: '101-250'
+    employees: '101-250',
+    linkedinUrl: ['https://www.linkedin.com/in/dangelo/'],
   },
   {
     subcompany: 'Spell',
@@ -42,7 +46,8 @@ const Facebook = [
     logo: 'logo.clearbit.com/spell.run',
     founder: 'Serkan Piantino',
     year: 2017,
-    employees: '1-10'
+    employees: '1-10',
+    linkedinUrl: ['https://www.linkedin.com/in/spiantino/'],
   },
   {
     subcompany: 'Pinterest',
@@ -51,7 +56,8 @@ const Facebook = [
     logo: 'logo.clearbit.com/pinterest.com',
     founder: 'Evan Sharp',
     year: 2009,
-    employees: '1001-5000'
+    employees: '1001-5000',
+    linkedinUrl: ['https://www.linkedin.com/in/evsharp/'],
   },
   {
     subcompany: 'DoorDash',
@@ -60,7 +66,8 @@ const Facebook = [
     logo: 'freelogovectors.net/wp-content/uploads/2018/07/doordash-logo.png',
     founder: 'Stanley Tang ',
     year: 2013,
-    employees: '251-500'
+    employees: '251-500',
+    linkedinUrl: ['https://www.linkedin.com/in/stanleytang/'],
   },
   {
     subcompany: 'Rockset',
@@ -69,7 +76,8 @@ const Facebook = [
     logo: 'logo.clearbit.com/rockset.com',
     founder: 'Dhruba Borthakur ',
     year: 2016,
-    employees: '11-50'
+    employees: '11-50',
+    linkedinUrl: ['https://www.linkedin.com/in/dhruba/'],
   },
   {
     subcompany: 'Qubole',
@@ -78,7 +86,8 @@ const Facebook = [
     logo: 'logo.clearbit.com/qubole.com',
     founder: 'Joydeep Sen Sarma ',
     year: 2013,
-    employees: '251-500'
+    employees: '251-500',
+    linkedinUrl: ['https://www.linkedin.com/in/joydeeps/'],
   },
   {
     subcompany: 'Slapdash',
@@ -87,7 +96,8 @@ const Facebook = [
     logo: 'logo.clearbit.com/slapdash.com',
     founder: 'Ivan Kanevski ',
     year: 2018,
-    employees: '1-10'
+    employees: '1-10',
+    linkedinUrl: ['https://www.linkedin.com/in/kanevski/'],
   },
 ];
 

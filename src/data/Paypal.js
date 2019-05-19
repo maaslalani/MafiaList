@@ -7,6 +7,7 @@ const Paypal = [
     founder: 'Peter Thiel',
     year: '2004',
     employees: '1001-5000',
+    linkedinUrl: ['https://www.linkedin.com/in/peterthiel/'],
   },
   {
     subcompany: 'Affirm',
@@ -16,6 +17,7 @@ const Paypal = [
     founder: 'Max Levchin',
     year: '2012',
     employees: '101-250',
+    linkedinUrl: ['https://www.linkedin.com/in/maxlevchin/'],
   },
   {
     subcompany: 'Tesla',
@@ -25,6 +27,7 @@ const Paypal = [
     founder: 'Elon Musk',
     year: '2003',
     employees: '10001+',
+    linkedinUrl: [],
   },
   {
     subcompany: 'Yammer',
@@ -34,6 +37,7 @@ const Paypal = [
     founder: 'David Sacks',
     year: '2008',
     employees: '251-500',
+    linkedinUrl: ['https://www.linkedin.com/in/davidoliversacks/'],
   },
   {
     subcompany: 'YouTube',
@@ -43,6 +47,7 @@ const Paypal = [
     founder: 'Steve C, Jawed K',
     year: '2005',
     employees: '1001-5000',
+    linkedinUrl: [],
   },
   {
     subcompany: 'Yelp',
@@ -52,6 +57,7 @@ const Paypal = [
     founder: 'Russel S, Jeremy S',
     year: '2004',
     employees: '501-1000',
+    linkedinUrl: ['https://www.linkedin.com/in/russel-simmons-9562/', 'https://www.linkedin.com/in/jeremystoppelman/'],
   },
   {
     subcompany: 'Kiva',
@@ -61,6 +67,7 @@ const Paypal = [
     founder: 'Premal Shah',
     year: '2005',
     employees: '101-250',
+    linkedinUrl: ['https://www.linkedin.com/in/premal/'],
   },
   {
     subcompany: '500Startups',
@@ -70,6 +77,7 @@ const Paypal = [
     founder: 'Dave McClure',
     year: '2010',
     employees: 'No Data',
+    linkedinUrl: ['https://www.linkedin.com/in/davemcclure/'],
   },
   {
     subcompany: 'LinkedIn',
@@ -79,6 +87,7 @@ const Paypal = [
     founder: 'Ried Hoffman',
     year: '2003',
     employees: '1001-5000',
+    linkedinUrl: ['https://www.linkedin.com/in/reidhoffman/'],
   },
 ];
 

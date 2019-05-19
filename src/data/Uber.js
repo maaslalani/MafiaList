@@ -7,6 +7,7 @@ const Uber = [
     founder: 'Travis VanderZanden',
     year: 2017,
     employees: '1-10',
+    linkedinUrl: ['https://www.linkedin.com/in/travis1/'],
   },
   {
     subcompany: 'dYdX',
@@ -16,6 +17,7 @@ const Uber = [
     founder: 'Antonio Juliano',
     year: 2017,
     employees: '1-10',
+    linkedinUrl: ['https://www.linkedin.com/in/antoniojuliano/'],
   },
   {
     subcompany: 'Bungalow',
@@ -25,6 +27,7 @@ const Uber = [
     founder: 'Justin McCarty',
     year: 2016,
     employees: '1-10',
+    linkedinUrl: ['https://www.linkedin.com/in/justindmccarty/'],
   },
   {
     subcompany: 'Karrot Fit',
@@ -34,6 +37,7 @@ const Uber = [
     founder: 'Kelley Halpin',
     year: 2018,
     employees: '1-10',
+    linkedinUrl: ['https://www.linkedin.com/in/kelleyhalpin/'],
   },
   {
     subcompany: 'HomeShare',
@@ -43,6 +47,7 @@ const Uber = [
     founder: 'Jeffrey Pang',
     year: 2016,
     employees: '1-10',
+    linkedinUrl: ['https://www.linkedin.com/in/jeffreypang1357/'],
   },
   {
     subcompany: 'ExecThread',
@@ -52,6 +57,7 @@ const Uber = [
     founder: 'Ryann Richardso',
     year: 2011,
     employees: '1-10',
+    linkedinUrl: ['https://www.linkedin.com/in/ryannrichardson/'],
   },
   {
     subcompany: 'Doppler',
@@ -61,6 +67,7 @@ const Uber = [
     founder: 'Phillip C',
     year: 2011,
     employees: '1-10',
+    linkedinUrl: ['https://www.linkedin.com/in/phillipchao/'],
   },
   {
     subcompany: 'Qoins',
@@ -70,6 +77,7 @@ const Uber = [
     founder: 'Christian Zimmerman',
     year: 2011,
     employees: '1-10',
+    linkedinUrl: ['https://www.linkedin.com/in/christianzim/'],
   },
   {
     subcompany: 'Kodiak Robotics',
@@ -79,6 +87,7 @@ const Uber = [
     founder: 'Don Burnette',
     year: 2011,
     employees: '1-10',
+    linkedinUrl: ['https://www.linkedin.com/in/don-burnette/'],
   },
 ];
 

@@ -7,6 +7,7 @@ const Microsoft = [
     founder: 'Daniel Dines',
     year: '2005',
     employees: '1001-5000',
+    linkedinUrl: ['https://www.linkedin.com/in/danieldines/'],
   },
   {
     subcompany: 'Figma',
@@ -16,15 +17,17 @@ const Microsoft = [
     founder: 'Dylan Field',
     year: '2012',
     employees: '11-50',
+    linkedinUrl: ['https://www.linkedin.com/in/dylanfield/'],
   },
   {
     subcompany: 'Viome',
     crunchbaseUrl: 'https://www.crunchbase.com/organization/viome',
     url: 'viome.com',
     logo: 'logo.clearbit.com/viome.com',
-    founder: 'Max Levchin',
+    founder: 'Naveen Jain',
     year: '2016',
     employees: '11-50',
+    linkedinUrl: ['https://www.linkedin.com/in/naveenjainintelius/'],
   },
   {
     subcompany: 'Blameless',
@@ -34,6 +37,7 @@ const Microsoft = [
     founder: 'Lyon Wong',
     year: '2017',
     employees: '11-50',
+    linkedinUrl: ['https://www.linkedin.com/in/lyonwong/'],
   },
   {
     subcompany: 'Nuro',
@@ -43,6 +47,7 @@ const Microsoft = [
     founder: 'Jiajun Zhu',
     year: '2016',
     employees: '251-500',
+    linkedinUrl: ['https://www.linkedin.com/in/jiajun/'],
   },
   {
     subcompany: 'Vida',
@@ -52,6 +57,7 @@ const Microsoft = [
     founder: 'Umaimah Mendhro',
     year: '2014',
     employees: '11-50',
+    linkedinUrl: ['https://www.linkedin.com/in/umaimah/'],
   },
   {
     subcompany: 'Stringr',
@@ -61,6 +67,7 @@ const Microsoft = [
     founder: 'Brian McNeill',
     year: '2013',
     employees: '11-50',
+    linkedinUrl: ['https://www.linkedin.com/in/brianmcneill/'],
   },
   {
     subcompany: 'SafeButler',
@@ -70,6 +77,7 @@ const Microsoft = [
     founder: 'Vincent Wei',
     year: 'No Data',
     employees: 'No Data',
+    linkedinUrl: ['https://www.linkedin.com/in/insuretech/'],
   },
   {
     subcompany: 'Algorithmia',
@@ -79,6 +87,7 @@ const Microsoft = [
     founder: 'Diego Oppenheimer',
     year: '2014',
     employees: '11-50',
+    linkedinUrl: ['https://www.linkedin.com/in/doppenheimer/'],
   },
   {
     subcompany: 'Custodia',
@@ -88,6 +97,7 @@ const Microsoft = [
     founder: 'Jim Hackett',
     year: '2018',
     employees: '1-10',
+    linkedinUrl: ['https://www.linkedin.com/in/jimhackett/'],
   },
   {
     subcompany: 'Blendoor',
@@ -97,6 +107,7 @@ const Microsoft = [
     founder: 'Stephanie Lampkin',
     year: '2014',
     employees: '1-10',
+    linkedinUrl: ['https://www.linkedin.com/in/stephanienlampkin/'],
   },
 ];
 

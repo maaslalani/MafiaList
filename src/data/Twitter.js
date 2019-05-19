@@ -7,6 +7,7 @@ const Twitter = [
     founder: 'Josh Brewer',
     year: '2015',
     employees: '101-250',
+    linkedinUrl: ['https://www.linkedin.com/in/joshuabrewer/'],
   },
   {
     subcompany: 'Benchling',
@@ -16,6 +17,7 @@ const Twitter = [
     founder: 'Ashu Singhal',
     year: '2012',
     employees: '51-100',
+    linkedinUrl: ['https://www.linkedin.com/in/ashu-singhal-1b58a18/#experience-section'],
   },
   {
     subcompany: 'Clearbit',
@@ -25,6 +27,7 @@ const Twitter = [
     founder: 'Alex MacCaw',
     year: '2014',
     employees: '11-50',
+    linkedinUrl: ['https://www.linkedin.com/in/alex-maccaw-ab592978/'],
   },
   {
     subcompany: 'Envoy',
@@ -34,6 +37,7 @@ const Twitter = [
     founder: 'Larry Gadea',
     year: '2013',
     employees: '51-100',
+    linkedinUrl: ['https://www.linkedin.com/in/larrygadea/'],
   },
   {
     subcompany: 'BearBuzz',
@@ -43,6 +47,7 @@ const Twitter = [
     founder: 'Hetong Li',
     year: 'No Data',
     employees: 'No Data',
+    linkedinUrl: ['https://www.linkedin.com/in/hetong-li-459a7623/'],
   },
   {
     subcompany: 'Brat',
@@ -52,6 +57,7 @@ const Twitter = [
     founder: 'Rob Fishman',
     year: '2017',
     employees: '11-50',
+    linkedinUrl: ['https://www.linkedin.com/in/rbfishman/'],
   },
   {
     subcompany: 'Streamlio',
@@ -61,6 +67,7 @@ const Twitter = [
     founder: 'Karthik Ramasamy',
     year: 'No Data',
     employees: 'No Data',
+    linkedinUrl: ['https://www.linkedin.com/in/kramasamy/'],
   },
   {
     subcompany: 'Mesosphere',
@@ -70,6 +77,7 @@ const Twitter = [
     founder: 'Benjamin Hindman',
     year: 'No Data',
     employees: 'No Data',
+    linkedinUrl: ['https://www.linkedin.com/in/benjamin-hindman-880b219/'],
   },
   {
     subcompany: 'Medium',
@@ -79,6 +87,7 @@ const Twitter = [
     founder: 'Biz Stone, Jason Goldman',
     year: '2011',
     employees: '101-250',
+    linkedinUrl: ['https://www.linkedin.com/in/bizstone/','https://www.linkedin.com/in/goldtoe/'],
   },
 ];
 

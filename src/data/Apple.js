@@ -7,6 +7,7 @@ const Apple = [
     founder: 'Karla Gallardo',
     year: 2013,
     employees: '11-50',
+    linkedinUrl: ['https://www.linkedin.com/in/karla-gallardo-6076a51a/'],
   },
   {
     subcompany: 'Upstart',
@@ -16,6 +17,7 @@ const Apple = [
     founder: 'Dave Girouard',
     year: 2012,
     employees: '101-250',
+    linkedinUrl: ['https://www.linkedin.com/in/davegirouard/'],
   },
   {
     subcompany: 'Ualá',
@@ -25,6 +27,7 @@ const Apple = [
     founder: 'Pierpaolo Barbieri',
     year: 2016,
     employees: 'No Data',
+    linkedinUrl: ['https://www.linkedin.com/in/pierpaolo-barbieri-4686851b/'],
   },
   {
     subcompany: 'Marble',
@@ -34,6 +37,7 @@ const Apple = [
     founder: 'Matthew Delaney',
     year: 2015,
     employees: '11-50',
+    linkedinUrl: ['https://www.linkedin.com/in/mdelaney7/'],
   },
   {
     subcompany: 'Aeva',
@@ -43,6 +47,7 @@ const Apple = [
     founder: 'Soroush Salehian',
     year: 2016,
     employees: '11-50',
+    linkedinUrl: ['https://www.linkedin.com/in/soroushs/'],
   },
   {
     subcompany: 'Electronic Arts',
@@ -52,6 +57,7 @@ const Apple = [
     founder: 'Trip Hawkins',
     year: 1982,
     employees: '5001-10000',
+    linkedinUrl: [],
   },
   {
     subcompany: 'Mixmax',
@@ -61,6 +67,7 @@ const Apple = [
     founder: 'Brad Vogel',
     year: 2014,
     employees: '51-100',
+    linkedinUrl: ['https://www.linkedin.com/in/bradvogel/'],
   },
   {
     subcompany: 'Ammunition Group',
@@ -70,6 +77,7 @@ const Apple = [
     founder: 'Robert Brunner',
     year: 2007,
     employees: '51-100',
+    linkedinUrl: ['https://www.linkedin.com/in/robertbrunner/'],
   },
   {
     subcompany: 'Curbside',
@@ -79,6 +87,7 @@ const Apple = [
     founder: 'Jaron Waldman',
     year: 2013,
     employees: '101-250',
+    linkedinUrl: ['https://www.linkedin.com/in/jaronwaldman/'],
   },
   {
     subcompany: 'Enjoy',
@@ -88,6 +97,7 @@ const Apple = [
     founder: 'Tom Suiter',
     year: 2014,
     employees: '501-1000',
+    linkedinUrl: ['https://www.linkedin.com/in/tom-suiter-330150/'],
   },
 ];
 
