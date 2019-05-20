@@ -71,10 +71,16 @@ a {
   text-align: center;
 }
 
-.subcompany .top img {
-  display: block;
-  width: 100px;
+#image-container {
   height: 100px;
+  width: 100px;
+  margin: auto;
+}
+
+#image-container img {
+  display: block;
+  width: 100%;
+  height: auto;
 
   margin: 5vh auto;
 }

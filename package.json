@@ -12,7 +12,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build && cd build && now --name mafia-list",
+    "deploy": "react-scripts build && cd build && now --name mafia-list",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

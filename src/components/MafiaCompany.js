@@ -16,7 +16,9 @@ class MafiaCompany extends React.Component {
           href={'https://' + url}
           >
             <div>
-              <img src={`https://${logo}`} alt={logo} />
+              <div id="image-container">
+                <img src={`https://${logo}`} alt={logo} />
+              </div>
               <p>
                 {subcompany}
               </p>
