@@ -11,6 +11,11 @@ p {
   flex-wrap: wrap;
 }
 
+.companies a {
+  margin-top: 3vw;
+  margin-left: 3vw;
+}
+
 .company {
   display: flex;
   flex: 1;
@@ -22,8 +27,6 @@ p {
 
   min-width: 350px;
   width: 25vw;
-  margin-top: 3vh;
-  margin-right: 3vw;
   padding: 2vw;
 }
 
@@ -141,10 +144,14 @@ a {
 
 .footer {
   text-align: center;
-  padding: 5%;
+  padding-top: 5%;
   font-family: monospace;
   font-size: 12pt;
-  line-height: 3.5ch
+  line-height: 3.5ch;
+}
+
+#typeform {
+  color: blue;
 }
 
 @media only screen and (min-device-width : 300px) and (max-device-width : 766px) {
