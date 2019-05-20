@@ -1,19 +1,19 @@
 import React from 'react';
-import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import { HashRouter, Switch, Route } from 'react-router-dom';
 import Home from './components/Home';
 import Company from './components/Company';
 import './App.css';
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div className="App">
         <Switch>
           <Route exact path='/' component={Home}/>
           <Route path='/:company' component={Company}/>
         </Switch>
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
