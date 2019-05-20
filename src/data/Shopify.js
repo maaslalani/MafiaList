@@ -16,7 +16,7 @@ const Shopify = [
     logo: 'logo.clearbit.com/cover.com',
     founder: 'Natalie G, Karn S, Ben A, Anand D',
     year: 2016,
-    employees: '11-50',
+    employees: '51-100',
     linkedinUrl: ['https://www.linkedin.com/in/natalieevagray/','https://www.linkedin.com/in/saroya/','https://www.linkedin.com/in/benaneesh/','https://www.linkedin.com/in/ananddhillon/'],
   },
   {

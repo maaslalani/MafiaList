@@ -36,7 +36,7 @@ const Google = [
     logo: 'logo.clearbit.com/wayup.com',
     founder: 'Liz Wessel',
     year: '2014',
-    employees: '11-50',
+    employees: '101-250',
     linkedinUrl: ['https://www.linkedin.com/in/elizabethwessel/'],
   },
   {
@@ -46,7 +46,7 @@ const Google = [
     logo: 'logo.clearbit.com/goforward.com',
     founder: 'Adrian Aoun',
     year: '2016',
-    employees: '11-50',
+    employees: '101-250',
     linkedinUrl: ['https://www.linkedin.com/in/adrianaoun/'],
   },
   {

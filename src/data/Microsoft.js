@@ -16,7 +16,7 @@ const Microsoft = [
     logo: 'logo.clearbit.com/figma.com',
     founder: 'Dylan Field',
     year: '2012',
-    employees: '11-50',
+    employees: '101-250',
     linkedinUrl: ['https://www.linkedin.com/in/dylanfield/'],
   },
   {
@@ -26,7 +26,7 @@ const Microsoft = [
     logo: 'logo.clearbit.com/viome.com',
     founder: 'Naveen Jain',
     year: '2016',
-    employees: '11-50',
+    employees: '51-100',
     linkedinUrl: ['https://www.linkedin.com/in/naveenjainintelius/'],
   },
   {
@@ -50,13 +50,13 @@ const Microsoft = [
     linkedinUrl: ['https://www.linkedin.com/in/jiajun/'],
   },
   {
-    subcompany: 'Vida',
+    subcompany: 'VIDA',
     crunchbaseUrl: 'https://www.crunchbase.com/organization/vida-co',
     url: 'shopvida.com',
     logo: 'logo.clearbit.com/shopvida.com',
     founder: 'Umaimah Mendhro',
     year: '2014',
-    employees: '11-50',
+    employees: '101-250',
     linkedinUrl: ['https://www.linkedin.com/in/umaimah/'],
   },
   {
@@ -75,8 +75,8 @@ const Microsoft = [
     url: 'safebutler.com',
     logo: 'logo.clearbit.com/safebutler.com',
     founder: 'Vincent Wei',
-    year: 'No Data',
-    employees: 'No Data',
+    year: '2017',
+    employees: '1-10',
     linkedinUrl: ['https://www.linkedin.com/in/insuretech/'],
   },
   {

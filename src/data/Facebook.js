@@ -46,7 +46,7 @@ const Facebook = [
     logo: 'logo.clearbit.com/spell.run',
     founder: 'Serkan Piantino',
     year: 2017,
-    employees: '1-10',
+    employees: '11-50',
     linkedinUrl: ['https://www.linkedin.com/in/spiantino/'],
   },
   {

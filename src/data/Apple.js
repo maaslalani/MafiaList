@@ -26,7 +26,7 @@ const Apple = [
     logo: 'logo.clearbit.com/uala.com.ar',
     founder: 'Pierpaolo Barbieri',
     year: 2016,
-    employees: 'No Data',
+    employees: '11-50',
     linkedinUrl: ['https://www.linkedin.com/in/pierpaolo-barbieri-4686851b/'],
   },
   {

@@ -144,6 +144,7 @@ a {
   padding: 5%;
   font-family: monospace;
   font-size: 12pt;
+  line-height: 3.5ch
 }
 
 @media only screen and (min-device-width : 300px) and (max-device-width : 766px) {

@@ -76,7 +76,7 @@ const Paypal = [
     logo: 'logo.clearbit.com/500.co',
     founder: 'Dave McClure',
     year: '2010',
-    employees: 'No Data',
+    employees: '51-100',
     linkedinUrl: ['https://www.linkedin.com/in/davemcclure/'],
   },
   {

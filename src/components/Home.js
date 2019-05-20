@@ -35,7 +35,7 @@ class Home extends React.Component {
           }
         </div>
 
-        <footer class="footer">Made with 🤵 by <a href="https://maaslalani.com/">Maas</a>, <a href="https://adamgonen.com/">Adam</a>, <a href="https://jordangonen.com">Jordan</a> and <a href="https://darshilpatel.com">Darshil</a>.</footer>
+        <footer class="footer">Made with <span role="img" aria-label="Man in Tuxedo">🤵</span> by <a href="https://maaslalani.com/" rel="noopener noreferrer" target='_blank'>Maas</a>, <a href="https://adamgonen.com/" rel="noopener noreferrer" target='_blank'>Adam</a>, and <a href="https://darshilpatel.com" rel="noopener noreferrer" target='_blank'>Darshil</a>.<br/>Did we miss a company? <a href="https://mafialist.typeform.com/to/NuYeN3" rel="noopener noreferrer" target='_blank'>Let us know.</a></footer>
       </main>
     );
   }
