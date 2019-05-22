@@ -28,7 +28,7 @@ class Home extends React.Component {
         <h1>MafiaList</h1>
         <p>Companies founded by X-Company employees</p>
 
-        <p>Which companies cultivate a culture that produces the best future founders? We collected alumni from top startups that went on to fund successful ventures of their own.</p>
+        <p>Which companies cultivate a culture that produces the best future founders? We collected alumni from top startups that went on to found successful ventures of their own.</p>
         <div className='companies'>
           {
             COMPANIES.map(company => <Company company={company} />)
