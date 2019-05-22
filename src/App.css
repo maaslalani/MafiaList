@@ -154,7 +154,7 @@ a {
   color: blue;
 }
 
-@media only screen and (min-device-width : 300px) and (max-device-width : 766px) {
+@media only screen and (min-device-width : 300px) and (max-device-width : 800px) {
   body {
     padding: 15px;
   }
@@ -165,6 +165,7 @@ a {
 
   .company {
     width: 85vw;
+    margin-left: -15px;
     min-width: 250px;
   }
 }
